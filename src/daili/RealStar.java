@@ -16,6 +16,7 @@ public class RealStar implements Star {
 
 	@Override
 	public void bookTicket() {
+		//象征性实现
 		System.out.println("RealStar.bookTicket()");
 	}
 
